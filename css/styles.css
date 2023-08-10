@@ -1,0 +1,85 @@
+header{
+    text-align: center;
+    background-color: #e6e6e6;
+}
+
+img{
+    width: 225px;
+    height: 250px;
+}
+
+h1{
+    background-color: #c4c4c4;
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 60px;
+    letter-spacing: 0.2em;
+    padding: 5px;
+}
+
+h2{
+    background-color: #c4c4c4;
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 0.2em;
+    padding: 5px;
+}
+
+.bacu{
+    display: inline;
+    margin: 78px;
+}
+
+
+.ecobi{
+    display: inline;
+    margin: 145px;
+}
+
+.eco2{
+    display: inline;
+    margin: 146px;
+}
+
+footer{
+    background-color: #005677;
+    text-align: center;
+    padding: 10px;
+}
+
+
+.texto, .imagen{
+    display: inline;
+}
+
+.imagen{
+    width: 20px;
+    height: 20px;
+    margin-right: 15px;
+}
+
+.texto{
+    color: white;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    line-height: 16.94px;
+    margin-right: 15px;
+
+}
+
+.datos{
+    list-style-type: disc;
+}
+
+.forex{
+    list-style-type: none;
+}
+
+.espacio{
+    padding: 50px;
+}
+
+
